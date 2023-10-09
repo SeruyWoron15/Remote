@@ -18,3 +18,5 @@ config --global user.email ваша почта@example.com
 Создать папку и инициализировать ветку `git init`
 
 Создать файл и закомитить изменения `git commit -am`
+
+ntrcn lkz rjyakbrnf
